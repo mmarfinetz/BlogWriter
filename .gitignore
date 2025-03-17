@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Generated content
+generated_blog.txt
+*.generated.*
+
+# Data and writing samples
+data/
+writing_samples/
+
+# Environment variables and secrets
+.env
+*.key
+secrets.json
+.secrets/
+
+# API keys
+*api_key*
+*API_KEY*
+
+# Model files
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.mlmodel
+checkpoint*/
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+notebooks/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log 

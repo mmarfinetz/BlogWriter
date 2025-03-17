@@ -1,0 +1,1 @@
+# BlogWriter package initialization

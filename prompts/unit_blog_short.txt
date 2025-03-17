@@ -1,0 +1,11 @@
+Write a blog post merging two pieces: 'Thought Process that Led to UNIT' and 'UNIT Expert Statement (2.2).' Eliminate overlap, like repeated critiques of fiat or gold. Skip the user story section from 'UNIT Expert Statement' and reframe it as a bold manifesto, not a technical walkthrough. Start with a punchy analogy or question about the dollar's flaws, then dissect the problems with current monetary standards (fiat, gold, Bitcoin) using concise logic and data. Transition into UNIT as the solution, listing its core principles (non-expansionary, decentralized, stable) with sharp explanations. Use subheadings and a numbered list where it fits. End with a call-to-action or big-picture statement about UNIT's potential.
+
+Key points to include:
+1. The US-led global expansionary monetary policy causes financial crises through subsidized over-investment
+2. Value is redistributed from savers to borrowers without democratic consent
+3. Centralized politics subjugates decentralized free market orders
+4. Wrapper Stablecoins (USDC, USDT, DAI-PSM) inherit expansionary monetary policy problems
+5. Bitcoin has good fixed supply policy but high volatility makes it ineffective for commerce
+6. Gold tracks USD M2 well, preserving purchasing power, but has physical/centralization risks
+7. UNIT must satisfy three criteria: non-expansionary, decentralized, and stable
+8. UNIT is designed for the Defi commerce community first 
