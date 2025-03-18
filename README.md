@@ -2,7 +2,7 @@
 
 A tool for generating blog posts using either:
 1. A fine-tuned GPT-2 model customized to your writing style
-2. The Anthropic Claude API
+2. The Anthropic or OPENAI API
 
 ## Setup
 
